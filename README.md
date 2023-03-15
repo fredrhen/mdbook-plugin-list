@@ -21,7 +21,7 @@ Please feel free to contribute.
 | [mdbook-ebub](https://github.com/Michael-F-Bryan/mdbook-epub)  |  An experimental mdbook backend for creating EPUB documents.  |
 | [mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck)  | A backend for mdbook which will check your links for you.  |
 | [mdbook-latex](https://github.com/lbeckman314/mdbook-latex)  | An mdbook backend for generating LaTeX and PDF documents.  |
-| [mdbook-pdf(https://github.com/HollowMan6/mdbook-pdf)]  |  A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. |
+| [mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf)  |  A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. |
 
 
 # Other
